@@ -1,0 +1,6 @@
+2024-04-04 11:58:46 WARN  KieBuilderImpl:393 - File 'rules.drl' is in folder '' but declares package 'com.example'. It is advised to have a correspondance between package and folder names.
+2024-04-04 11:58:47 INFO  KieContainerImpl:482 - Start creation of KieBase: defaultKieBase
+2024-04-04 11:58:47 INFO  KieContainerImpl:498 - End creation of KieBase: defaultKieBase
+2024-04-04 11:59:55 WARN  KieBuilderImpl:393 - File 'rules.drl' is in folder '' but declares package 'com.example'. It is advised to have a correspondance between package and folder names.
+2024-04-04 11:59:56 INFO  KieContainerImpl:482 - Start creation of KieBase: defaultKieBase
+2024-04-04 11:59:56 INFO  KieContainerImpl:498 - End creation of KieBase: defaultKieBase
